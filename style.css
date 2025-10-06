@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    color:rgb(47, 112, 168);
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bloco{
+    border:1px;
+    margin: 20px 0;
+    padding: 15px;
+    background: black(200, 188, 188);
+}
+.bloco img{
+    margin: 10px auto;
+    padding: 10px;
+}
